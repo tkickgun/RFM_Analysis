@@ -28,7 +28,6 @@ iii) Highlight high-potential customers with low Frequency but high Monetary sco
 iii) Reward loyal customers with special incentives to retain them.
 
 3. Revenue Improvement:
-
 i) Increase retention rates by focusing on customers with declining Recency scores.
 ii) Optimize promotional strategies for different customer segments based on their purchasing behavior.
 iii) Enhance customer lifetime value (CLV) by strategically targeting segments most likely to respond to marketing efforts.
